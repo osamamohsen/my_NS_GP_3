@@ -1,0 +1,10 @@
+.wrapper{background-color: skyblue;;margin-top: 72px;}
+.container{background-color: skyblue; margin-top: -93px; margin-left: -2px; width: 101%;}
+.my_offer{width: 36%;margin-top: 10px;margin-left: 120px;margin-top: 20px;border:1px solid silver; 
+         border-radius: 10px;float:left;display: block;}
+.my_offer a{margin-left: 28px; width: 32%;} 
+.my_offer a img{width: 332px; margin-left: 3px; margin:0px auto;margin-top: 13px; border-radius: 5px;}
+.box{width: 332px; border:1px solid skyblue; padding: 5px; border-radius: 5px;
+    margin-top: 2px; margin-left: 31px; margin-bottom: 8px;}
+.box p{width: 280px;margin-left: 10px; margin: 0px auto; color: black;}
+ .btn_offer{color: black;background-color: skyblue; border-radius: 19px;}
